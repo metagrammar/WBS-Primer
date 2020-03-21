@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 70">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect width="90" height="70" fill="none"/>
+        <path d="M40.28229,29.99969a12.5,12.5,0,1,0-12.59247-12.5l.0003.09308a12.4998,12.4998,0,0,0,12.592,12.40692Z" fill="#dadada"/>
+        <polygon points="85 20.294 49.706 48.529 25.235 34.55 5 48.529 5 65 85 65 85 20.294" fill="#dadada"/>
+      </g>
+    </g>
+  </g>
+</svg>
